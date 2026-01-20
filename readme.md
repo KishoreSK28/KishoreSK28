@@ -24,11 +24,8 @@
 I’m a **Computer Science & Engineering student** focused on building  
 **secure, scalable, and production-ready applications**.
 
-My interests lie in:
-- **Backend & Full-Stack Development**
-- **Flutter Mobile Applications**
-- **Cybersecurity & Ethical Hacking**
-- **IoT & Embedded Systems**
+My interests include **backend systems**, **Flutter mobile apps**,  
+**cybersecurity**, and **IoT-based solutions**.
 
 📩 **Email:** `kishoresenthamarai2004@gmail.com`
 
@@ -40,20 +37,20 @@ My interests lie in:
 <tr>
 <td width="50%">
 
-### 🔐 DNA-Based Encryption System  
-**Python • Cryptography**
+### 🏥 [Heal At Home](https://github.com/KishoreSK28/heal-at-home)  
+**JavaScript • Web Application**
 
-A security-oriented system using **DNA-inspired encoding** techniques  
-to encrypt and decrypt sensitive data using unconventional logic.
+A healthcare-focused web platform designed to support  
+**basic medical assistance and at-home care solutions**.
 
 </td>
 <td width="50%">
 
-### 🌐 The Essential Scraper  
-**Python • Web Scraping**
+### 📱 [Cyber Toolkit](https://github.com/KishoreSK28/cybertoolkit)  
+**Flutter • Dart • Cybersecurity**
 
-A smart scraper that extracts **only meaningful data**  
-and stores it in clean, structured CSV formats.
+A mobile application combining essential  
+**ethical hacking and cybersecurity utilities**.
 
 </td>
 </tr>
@@ -61,20 +58,20 @@ and stores it in clean, structured CSV formats.
 <tr>
 <td width="50%">
 
-### 📱 Cyber Toolkit  
-**Flutter • Networking • Cybersecurity**
+### 🔐 [DNA Based Encryption System](https://github.com/KishoreSK28/DNA_based_encryption_system)  
+**Python • Cryptography**
 
-A mobile toolkit integrating **ethical hacking utilities**  
-like port scanning, hash generation, and DNS lookup.
+An encryption system using **DNA-inspired encoding techniques**  
+to protect sensitive data through unconventional logic.
 
 </td>
 <td width="50%">
 
-### ⚡ Flipper CloneX  
+### ⚡ [Flipper CloneX](https://github.com/KishoreSK28/flipper_clonex)  
 **ESP32 • Flutter • IoT**
 
-A Flipper Zero-inspired project combining  
-**RFID, IR, Wi-Fi, Bluetooth**, and portable storage.
+A Flipper Zero–inspired project integrating  
+**Wi-Fi, Bluetooth, RFID, IR**, and portable storage.
 
 </td>
 </tr>
@@ -100,4 +97,3 @@ A Flipper Zero-inspired project combining
 ▸ Cybersecurity & Ethical Hacking
 ▸ IoT & Embedded Systems
 ▸ Open-Source Contributions
-
