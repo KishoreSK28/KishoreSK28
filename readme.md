@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer | Learner | Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;backend+developer;flutter+developer;IOT+engineer&center=true&width=500&height=45">
 </p>
 
 ---
@@ -12,14 +12,14 @@
 - 🌱 I’m currently learning **Web Development / AI / Anything**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **kishoresenthamarai2004@gmail.com**
 - ⚡ Fun fact: **I love coding 🚀**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,python,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,django,dart,python,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -32,17 +32,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreSK28&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KishoreSK28&theme=onedark&row=1&no-frame=true"/>
-</p>
 
 ---
 
@@ -62,4 +51,5 @@
 
 ---
 
-⭐️ From **Your Name**
+⭐️ From **KishoreSK28**
+
