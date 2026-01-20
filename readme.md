@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github,vscode&perline=5" />
 </p>
 
 ---
@@ -67,3 +67,4 @@
 ---
 
 ⭐️ From *KishoreSK28*
+
