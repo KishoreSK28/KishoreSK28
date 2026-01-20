@@ -1,56 +1,84 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">Backend & Flutter Developer | Cybersecurity Enthusiast</h3>
+<h1 align="center">Kishore Senthamarai</h1>
+<p align="center">
+  <i>Computer Science Engineer • Backend & Flutter Developer • Cybersecurity Enthusiast</i>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub!;Backend+Developer;Flutter+Developer;Cybersecurity+Enthusiast;IoT+Explorer&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+clean+and+scalable+systems;Backend+%7C+Flutter+%7C+Cybersecurity;Learning+by+building+real+projects">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🚀 I’m a *Computer Science & Engineering student* with a strong interest in *Cybersecurity, Backend & Web Development, Flutter, and IoT systems*.  
-💡 I enjoy building *real-world projects*, experimenting with new technologies, and continuously improving my technical and problem-solving skills.
+I’m a *Computer Science & Engineering student* focused on building *reliable, scalable, and secure applications*.  
+My interests span *backend development, Flutter-based mobile apps, cybersecurity, and IoT systems*.
 
-🔭 Currently working on *full-stack, Flutter, IoT, and open-source projects*  
-🌱 Learning *Advanced Web Development, Flutter, and system-level concepts*  
-🤝 Open to collaborating on *Open Source, Web, Flutter, IoT, and Cybersecurity projects*  
-📫 Reach me at: *kishoresenthamarai2004@gmail.com*
+I enjoy working on *real-world problems*, learning through hands-on projects, and improving systems step by step.
 
-⚡ Fun fact: I love turning complex ideas into clean, working products 💻🔥
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github,vscode&perline=5" />
-</p>
+- Currently building full-stack, Flutter, and IoT projects  
+- Learning advanced backend concepts and Flutter internals  
+- Open to open-source contributions and collaborations  
+- 📩 Contact: *kishoresenthamarai2004@gmail.com*
 
 ---
 
-## 📌 Areas of Interest
+## Featured Projects
 
-- 🔐 Cybersecurity & Ethical Hacking  
-- 🌐 Backend & Full-Stack Web Development  
-- 📱 Cross-platform Mobile App Development (Flutter)  
-- 🤖 IoT & Embedded Systems  
-- 🚀 Open Source Contributions  
+### 🔐 DNA-Based Encryption System  
+*Tech:* Python, Cryptography  
+A security-focused project that uses *DNA-inspired encoding techniques* to encrypt and decrypt data, enhancing confidentiality through unconventional cryptographic methods.
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 The Essential Scraper  
+*Tech:* Python, Web Scraping  
+A lightweight tool designed to *extract only relevant data* from websites and store it efficiently in structured formats like CSV.
+
+---
+
+### 📱 Cyber Toolkit (Flutter App)  
+*Tech:* Flutter, Networking, Cybersecurity  
+A mobile application that combines essential *ethical hacking and cybersecurity tools* such as port scanning, hash generation, and DNS lookup.
+
+---
+
+### ⚡ Flipper CloneX (ESP32 + Flutter)  
+*Tech:* ESP32, Flutter, IoT, Wi-Fi, Bluetooth  
+A hardware-software project inspired by Flipper Zero, integrating *Wi-Fi, Bluetooth, RFID, IR*, and portable storage with a cyber-themed mobile interface.
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishoreSK28&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreSK28&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Focus Areas
 
-<p align="left">
+- Backend & Full-Stack Development  
+- Cross-Platform Mobile Apps (Flutter)  
+- Cybersecurity & Ethical Hacking  
+- IoT & Embedded Systems  
+- Open-Source Collaboration  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KishoreSK28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreSK28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/Kishore-Senthamarai-Kannan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -58,13 +86,10 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KishoreSK28&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KishoreSK28&label=views&color=0ea5e9&style=flat"/>
 </p>
 
----
-
-⭐️ From *KishoreSK28*
-
+<p align="center">
+  <sub>— KishoreSK28</sub>
+</p>
